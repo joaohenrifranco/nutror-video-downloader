@@ -4,6 +4,7 @@
 - Firefox
 - [The M3U Stream Detector](https://addons.mozilla.org/pt-BR/firefox/addon/the-m3u8-stream-detector/) Firefox extension
 - Fish shell
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## Running
 
