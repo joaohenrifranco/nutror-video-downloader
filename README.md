@@ -13,4 +13,5 @@
 - Copy, paste and run the command present on `open_all_urls.js`
 - Wait for all videos to load, see progress on the console
 - Copy URLs using the extension and place them on the `input.txt` file
-- Run `fish ./download.fish` 
+- Run `fish ./download.fish`
+- You may run multiple instances of the script to speed up the download process
