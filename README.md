@@ -1,5 +1,10 @@
 # Nutror Video Downloader
 
+## Disclaimers
+> ⚠️ This is a personal project, I'm not affiliated with Nutror in any way.
+
+> ⚠️ Use at your own risk, crawling the website and downloading videos may be against their terms of service.
+
 ## Requirements
 - Firefox
 - [The M3U Stream Detector](https://addons.mozilla.org/pt-BR/firefox/addon/the-m3u8-stream-detector/) Firefox extension
